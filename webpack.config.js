@@ -23,7 +23,7 @@ module.exports = {
     // historyApiFallback: true,
     hot: true,
   },
-  // devtool: "source-map",
+  devtool: "source-map",
 
 
   // output: {
